@@ -1,0 +1,35 @@
+onlinehosting.site database;
+database: onl14ine124_laravel
+password: DEz;+XqtQf*a
+
+==================================
+
+ftp
+
+FTP Username: onl14ine124
+FTP server: ftp.onlinehosting.site
+FTP & explicit FTPS port:  21
+password :- 6+fqKC%{*G~?
+
+sshkey:id_rsa
+sshpass:laravelvue
+IP:190.92.152.94:2083
+
+UserName: onl14ine124
+PassWord: 6+fqKC%{*G~?
+port: 7822
+
+commands 
+php artisan make:model Todo -mcr
+
+paypal
+id: sb-gspb73322057@business.example.com
+pass: *=9(ii!M
+card: 4032032806643331
+15274.32
+for payment 
+Id: sb-syoxo13405884@business.example.com
+pass: g3FP0nT?
+
+https://onlinehosting.site/
+
